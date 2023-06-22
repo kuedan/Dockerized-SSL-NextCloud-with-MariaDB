@@ -10,7 +10,7 @@ I was able to put this all together from the help of a few githubs below:
    - https://github.com/jwilder/nginx-proxy
    - https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
 
-Clone this repository to a directory you want on your server.
+Clone this repository to a directory you want on your Ubuntu 22.04 LTS server.
 
 Next edit the docker-compose.yml file to your liking 
 
